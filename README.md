@@ -1,17 +1,18 @@
 <img alt="Boy Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2p2dTFjaGY0enpmM2p5ZGlhZTlrc3BxMXUyZjMydHVmZmM3ZWxyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" align="right" width="280"/>
-<h2>👋 ¡Hola! Soy Joseph André Sánchez</h2>
 
-### 👨🏻‍💻 Sobre Mí
+<h2>👋 Hello! I'm Joseph André Sánchez</h2>
 
-* 💻 **Desarrollador de Software Backend & Frontend** enfocado en el desarrollo de soluciones escalables, seguras y eficientes.
-* 🎓 Actualmente cursando la carrera de **Tecnología Superior en Desarrollo de Software** en el Tecnológico Universitario Vida Nueva (Graduación estimada: Agosto 2026).
-* ⚙️ Experiencia práctica diseñando APIs RESTful, optimizando bases de datos e implementando seguridad con JWT y RBAC.
-* 💡 Me apasiona automatizar flujos de trabajo, aprender continuamente y colaborar en equipos ágiles.
-* ✉️ Puedes contactarme directamente en: **michelcruzati@gmail.com**
+### 👨🏻‍💻 About Me
+
+* 💻 **Backend & Frontend Software Developer** focused on developing scalable, secure, and efficient solutions.
+* 🎓 Currently studying a **Higher Technology Degree in Software Development** at Tecnológico Universitario Vida Nueva (Expected graduation: August 2026).
+* ⚙️ Practical experience designing RESTful APIs, optimizing databases, and implementing security with JWT and RBAC.
+* 💡 Passionate about automating workflows, continuous learning, and collaborating in agile teams.
+* ✉️ You can reach me directly at: **michelcruzati@gmail.com**
 
 ---
 
-### 🛠️ Tecnologías conocidas
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <div align=left>
   <h3>Frontend</h3>
@@ -19,17 +20,17 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,vite,tailwind&theme=light" />
   </a>
   
-  <h3>Backend & Lenguajes</h3>
+  <h3>Backend & Languages</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,php,py,cs&theme=light" />
   </a>
   
-  <h3>Bases de Datos & DevOps</h3>
+  <h3>Databases & DevOps</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,docker&theme=light" />
   </a>
   
-  <h3>Herramientas y Gestión (Agile)</h3>
+  <h3>Tools & Management (Agile)</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,postman,jira&theme=light" />
   </a>
@@ -37,7 +38,8 @@
 
 ---
 
-### ⚙️ GitHub Analytics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Analytics </b>
+<br>
 
 <p align="center">
   <a href="https://github.com/Josephover">
@@ -54,7 +56,7 @@
 
 ---
 
-### 🤝 Conéctate Conmigo
+### 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joseph-s%C3%A1nchez-b83211188/" target="_blank">
@@ -67,7 +69,7 @@
 
 ---
 
-### 🐍 Animación de Contribuciones
+### 🐍 Contributions Animation
 
 <div align="center">
   <a href="https://github.com/Josephover/">
