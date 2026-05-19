@@ -1,8 +1,5 @@
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="280"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0077B5&vCenter=true&width=600&lines=👋+¡Hola!+Soy+Joseph+André+Sánchez;💻+Desarrollador+Backend+%26+Frontend" alt="Typing SVG" />
-</a>
+<img alt="Boy Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2p2dTFjaGY0enpmM2p5ZGlhZTlrc3BxMXUyZjMydHVmZmM3ZWxyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" align="right" width="280"/>
+<h2>👋 ¡Hola! Soy Joseph André Sánchez</h2>
 
 ### 👨🏻‍💻 Sobre Mí
 
