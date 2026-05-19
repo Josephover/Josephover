@@ -62,7 +62,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" />
   </a>
   <a href="mailto:michelcruzati@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50" alt="Gmail" style="vertical-align: top; margin-left: 10px;" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" style="margin-left: 10px;" />
   </a>
 </p>
 
