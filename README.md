@@ -25,9 +25,9 @@
     <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,php,py,cs&theme=light" />
   </a>
   
-  <h3>Databases & DevOps</h3>
+<h3>Databases & DevOps</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,docker&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,mongodb,docker&theme=light" />
   </a>
   
   <h3>Tools & Management (Agile)</h3>
