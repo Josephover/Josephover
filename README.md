@@ -12,8 +12,8 @@
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
----
+### 🛠️ Tecnologías conocidas
+
 <div align=left>
   <h3>Frontend</h3>
   <a href="https://skillicons.dev">
@@ -30,11 +30,12 @@
     <img src="https://skillicons.dev/icons?i=mysql,postgres,docker&theme=light" />
   </a>
   
-  <h3>Herramientas</h3>
+  <h3>Herramientas y Gestión (Agile)</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,jira&theme=light" />
   </a>
 </div>
+
 ---
 
 ### ⚙️ GitHub Analytics
@@ -57,9 +58,15 @@
 ### 🤝 Conéctate Conmigo
 
 <p align="center">
-<a href="https://www.linkedin.com/in/joseph-sanchez-b83211188/" target="_blank"><img src="https://img.shields.io/badge/-Joseph%20Sánchez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:michelcruzati@gmail.com"><img src="https://img.shields.io/badge/-Josephover-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/joseph-s%C3%A1nchez-b83211188/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" />
+  </a>
+  <a href="mailto:michelcruzati@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50" alt="Gmail" style="vertical-align: top; margin-left: 10px;" />
+  </a>
 </p>
+
+---
 
 ### 🐍 Animación de Contribuciones
 
