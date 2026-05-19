@@ -27,7 +27,7 @@
   
 <h3>Databases & DevOps</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,mongodb,docker&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,ms_sql,mongodb,docker&theme=light" />
   </a>
   
   <h3>Tools & Management (Agile)</h3>
