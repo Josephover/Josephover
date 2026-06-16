@@ -69,10 +69,11 @@
 
 ---
 
-### 🐍 Contributions Animation
+### 🐍 Contributions 
+### 📋 Proyecto Destacado: SysPlanificacion
 
 <div align="center">
-  <a href="https://github.com/Josephover/">
-    <img src="https://github.com/Josephover/Josephover/blob/output/github-contribution-grid-snake.svg" alt="snake contribution graph" onerror="this.style.display='none'"/>
+  <a href="https://github.com/Carlos270512/SysPlanificacion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Carlos270512&repo=SysPlanificacion" />
   </a>
 </div>
