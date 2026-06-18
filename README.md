@@ -11,7 +11,7 @@
 * ✉️ You can reach me directly at: **michelcruzati@gmail.com**
 <p align="center">
   <a href="https://josephover.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Ver_Mi_Portafolio-0078D4?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="Portafolio" height="40"/>
+    <img src="https://img.shields.io/badge/View_My_Portfolio-0078D4?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="Portfolio" height="40"/>
   </a>
 </p>
 ---
